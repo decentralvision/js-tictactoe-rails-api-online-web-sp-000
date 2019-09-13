@@ -7,6 +7,6 @@ function player() {
   }
 }
 
-function updateState(token) {
-  
+function updateState(el) {
+  el.text(player())
 }
