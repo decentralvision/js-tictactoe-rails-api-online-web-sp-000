@@ -8,5 +8,5 @@ function player() {
 }
 
 function updateState(el) {
-  
+  debugger
 }
